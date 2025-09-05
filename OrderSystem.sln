@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version
+VisualStudioVersion = 16.0.30319.11
+MinimumVisualStudioVersion = 10.0.40219.1
+VisualStudioVersion = 16.0.30319.11
+VisualStudioVersion = 16.0.30319.11
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1", "src\Project1\Project1.csproj", "{GUID1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "src\Project2\Project2.csproj", "{GUID2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3", "src\Project3\Project3.csproj", "{GUID3}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{GUID1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{GUID1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{GUID1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{GUID1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{GUID2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{GUID2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{GUID2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{GUID2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{GUID3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{GUID3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{GUID3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{GUID3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
