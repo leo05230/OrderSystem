@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>OrderSystem.Domain</RootNamespace>
+    <AssemblyName>OrderSystem.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
